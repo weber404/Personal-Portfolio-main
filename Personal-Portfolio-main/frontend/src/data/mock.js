@@ -52,12 +52,12 @@ export const mockData = {
     },
     {
       id: 4,
-      title: "Portfolio Website",
-      description: "Modern portfolio website with dark/light mode, smooth animations, and responsive design. Built with React and Tailwind CSS.",
-      image: "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=500&h=300&fit=crop",
-      technologies: ["React", "Tailwind CSS", "Framer Motion", "Netlify"],
-      liveDemo: "https://vishwas-portfolio.example.com",
-      github: "https://github.com/weber404/Calculator.git",
+      title: "Personal Portfolio Website",
+      description: "Designed and developed a fully responsive personal portfolio website to showcase my projects, technical skills, and professional background. This website serves as a central platform for recruiters and collaborators to explore my work and contact me.",
+      image: "Screenshot 2025-07-14 180952.png",
+      technologies: ["React", "Tailwind CSS", "HTML/CSS", "JAVSCRIPT"],
+      liveDemo: "https://personal-portfolio-main-sepia.vercel.app/",
+      github: "https://github.com/weber404/Personal-Portfolio-main.git",
       featured: true
     }
   ],
