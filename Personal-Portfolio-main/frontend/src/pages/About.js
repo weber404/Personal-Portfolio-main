@@ -147,7 +147,7 @@ const About = () => {
               </div>
             </div>
 
-            <a href='Vishwas-Frontend-Resume.pdf' download>
+            <a href='Vishwas Saxena-Front-End Developer-Resume.pdf' download>
             <Button 
               size="lg"
               className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-3 rounded-full font-medium transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl group"

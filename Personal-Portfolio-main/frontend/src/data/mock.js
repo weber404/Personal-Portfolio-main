@@ -7,7 +7,7 @@ export const mockData = {
     phone: "+91 8840701964",
     location: "Farrukhabad, Uttar Pradesh",
     bio: "Passionate Frontend Developer with 2 months of hands-on internship experience creating beautiful, responsive, and user-friendly web applications. I love turning complex problems into simple, elegant solutions through clean code and innovative design.",
-    resume: "Vishwas-Frontend-Resume.pdf"
+    resume: "Vishwas Saxena-Front-End Developer-Resume.pdf"
   },
   skills: [
     { name: "React", level: 95, color: "bg-blue-500" },
