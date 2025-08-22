@@ -55,7 +55,7 @@ export const mockData = {
       id: 4,
      title: "Crypto Price Tracking Web App",
       description: "Developed and deployed a responsive crypto price tracking web app using React.js, CoinGecko API, and Vercel, delivering real-time cryptocurrency data with fast performance.",
-      image: "Screenshot 2025-08-22 224526.png",
+      image: "Screenshot%202025-08-22%20224526.png",
       technologies: ["React", "REST API", "HTML/CSS", "JAVSCRIPT"],
       liveDemo: "https://crypto-place-vishwas-git-main-vishwas-saxenas-projects-9693045c.vercel.app/",
       github: "https://github.com/weber404/CryptoPlace.git",
