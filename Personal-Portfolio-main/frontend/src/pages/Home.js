@@ -267,13 +267,29 @@ const Home = () => {
                     ))}
                   </div>
                   <div className="flex space-x-4">
-                    <Button size="sm" className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 transform hover:scale-105 transition-all duration-300">
-                      Live Demo
-                    </Button>
-                    <Button variant="outline" size="sm" className="hover:scale-105 transition-transform duration-300">
-                      <Github className="w-4 h-4 mr-2" />
-                      Code
-                    </Button>
+                    <Button
+                        size="sm"
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          window.open(project.liveDemo, "_blank");
+                        }}
+                        className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white flex-1 group/btn"
+                      >
+                        <ExternalLink className="w-4 h-4 mr-1 group-hover/btn:scale-110 transition-transform duration-300" />
+                        Live Demo
+                      </Button>
+                     <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          window.open(project.github, "_blank");
+                        }}
+                        className="flex-1 group/btn"
+                      >
+                        <Github className="w-4 h-4 mr-1 group-hover/btn:scale-110 transition-transform duration-300" />
+                        Code
+                      </Button>
                   </div>
                 </div>
               </div>
