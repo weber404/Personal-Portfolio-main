@@ -18,6 +18,7 @@ export const mockData = {
     { name: "C/C++", level: 75, color: "bg-green-500" },
     { name: "Github", level: 85, color: "bg-purple-500" },
     { name: "Git", level: 88, color: "bg-red-500" }
+    { name: "REST API", level: 80, color: "bg-aqua-500" }
   ],
   projects: [
     {
@@ -52,12 +53,12 @@ export const mockData = {
     },
     {
       id: 4,
-      title: "Personal Portfolio Website",
-      description: "Designed and developed a fully responsive personal portfolio website to showcase my projects, technical skills, and professional background. This website serves as a central platform for recruiters and collaborators to explore my work and contact me.",
-      image: "Screenshot 2025-07-14 180952.png",
-      technologies: ["React", "Tailwind CSS", "HTML/CSS", "JAVSCRIPT"],
-      liveDemo: "https://personal-portfolio-main-sepia.vercel.app/",
-      github: "https://github.com/weber404/Personal-Portfolio-main.git",
+     title: "Crypto Price Tracking Web App",
+      description: "Developed and deployed a responsive crypto price tracking web app using React.js, CoinGecko API, and Vercel, delivering real-time cryptocurrency data with fast performance.",
+      image: "Screenshot 2025-08-22 224526.png",
+      technologies: ["React", "REST API", "HTML/CSS", "JAVSCRIPT"],
+      liveDemo: "https://crypto-place-vishwas-git-main-vishwas-saxenas-projects-9693045c.vercel.app/",
+      github: "https://github.com/weber404/CryptoPlace.git",
       featured: true
     }
   ],
