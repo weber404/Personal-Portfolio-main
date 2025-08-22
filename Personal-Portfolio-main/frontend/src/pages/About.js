@@ -36,6 +36,15 @@ const About = () => {
 
   const timelineItems = [
     {
+      year: '07/2025 - 08/2025',
+      role: 'Frontend Developer Intern',
+      company: 'PearlThoughts',
+      description: 'Developed a web-based healthcare portal using Next.js, TypeScript and Tailwind CSS, with dedicated interfaces for patients and doctors. Implemented key features including appointment scheduling, profile management, and medical record access. Utilized mock APIs to simulate backend services and ensure seamless data integration during development. Focused on delivering a responsive UI, secure navigation, and an optimized user experience across devices.',
+      side: 'left',
+      link: 'https://drive.google.com/file/d/1sizBa1fWlvrr8nWtRIqvRZYdTpVJkjsL/view?usp=drive_link'
+      
+    },
+    {
       year: '05/2024 - 06/2024',
       role: 'Web Developer Intern',
       company: 'Oasis Infobyte',
