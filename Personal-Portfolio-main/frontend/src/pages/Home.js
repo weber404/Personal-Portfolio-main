@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { Button } from '../components/ui/button';
-import { ArrowRight, Download, Github, Linkedin, Twitter, Sparkles, Code, Zap } from 'lucide-react';
+import { ExternalLink, ArrowRight, Download, Github, Linkedin, Twitter, Sparkles, Code, Zap } from 'lucide-react';
 import { mockData } from '../data/mock';
 
 const Home = () => {
