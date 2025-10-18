@@ -18,7 +18,10 @@ export const mockData = {
     { name: "C/C++", level: 75, color: "bg-green-500" },
     { name: "Github", level: 85, color: "bg-purple-500" },
     { name: "Git", level: 88, color: "bg-red-500" },
-    { name: "REST API", level: 80, color: "bg-pink-500" }
+    { name: "REST API", level: 80, color: "bg-pink-500" },
+    { name: "Mongo DB", level: 80, color: "bg-green-800" },
+    { name: "Node JS", level: 80, color: "bg-green-600" },
+    { name: "Express JS", level: 80, color: "bg-blue-500" },
   ],
   projects: [
     {
