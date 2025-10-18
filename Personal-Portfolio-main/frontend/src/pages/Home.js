@@ -137,7 +137,7 @@ const Home = () => {
                   <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform duration-300" />
                 </Button>
               </Link>
-              < a href='Vishwas Saxena-Front-End Developer-Resume.pdf' download >
+              < a href='Vishwas_Saxena_Full-Stack Developer_Resume.pdf' download >
               <Button 
                 variant="outline" 
                 size="lg"
