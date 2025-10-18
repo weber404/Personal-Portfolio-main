@@ -10,7 +10,7 @@ const Home = () => {
   const [currentWordIndex, setCurrentWordIndex] = useState(0);
   const [isDeleting, setIsDeleting] = useState(false);
 
-  const words = ['Frontend Developer', 'React Specialist', 'UI/UX Enthusiast', 'Web Developer'];
+  const words = ['Full-Stack Developer', 'React Specialist', 'UI/UX Enthusiast', 'Software Engineer'];
 
   // Typing animation effect
   useEffect(() => {
